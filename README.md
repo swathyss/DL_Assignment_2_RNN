@@ -8,15 +8,6 @@
 A deep learning project focused on building and evaluating a **Recurrent Neural Network (RNN)** using **SimpleRNN** for **time-series forecasting of daily temperature**.
 
 ---
-
-## 🚀 Run Notebook in Google Colab
-
-Click the button below to open the notebook directly in Google Colab.
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)
-
----
-
 # 📘 Project Overview
 
 This project implements a **SimpleRNN model** to predict the **next day’s temperature** based on historical weather data.
